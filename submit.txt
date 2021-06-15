@@ -2,7 +2,8 @@ Nick Stafford
 
 nick-a-stafford
 
-Sean Mulligan : Partner Jon Sees: Partner   
+Partner: Jon Sees  - github: jonathansees-cu
+Secondary Partner: Sean Mulligan    
 
 I looked online and it said that what was needed to resolve the merge conflict was to delete the <<< and the ====. I did that however did not see any resolution log that popped up. 
 
